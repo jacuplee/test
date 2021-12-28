@@ -1,6 +1,6 @@
 <?php
 /**
- * Checkout Form
+ * Checkout Form test test test
  *
  * This template can be overridden by copying it to yourtheme/woocommerce/checkout/form-checkout.php.
  *
