@@ -1,7 +1,7 @@
 <?php
 /**
  * Checkout Form test test test
- *
+ *updated here
  * This template can be overridden by copying it to yourtheme/woocommerce/checkout/form-checkout.php.
  *
  * HOWEVER, on occasion WooCommerce will need to update template files and you
